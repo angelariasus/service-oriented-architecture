@@ -1,4 +1,4 @@
-# Service-Oriented Architecture (SOA)
+# Service-Oriented Architecture (SOA) 
 
 This project implements a **Hospital Management System** following a **modular service-oriented architecture**.  
 It was developed in **Java** with **Oracle Database** as the persistence engine.
@@ -69,3 +69,4 @@ Each module provides full CRUD operations via a GUI interface.
 - Understanding the mapping between conceptual models, relational schemas, and application logic.
 
 Project developed by **angelariasus**
+
